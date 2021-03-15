@@ -3,7 +3,7 @@ const { AgileHOC, useAgile, useEvent, useWatcher } = require('@agile-ts/react');
 const { toast } = require('react-toastify');
 
 const githubOrgUrl = 'https://github.com/agile-ts';
-const domain = 'https://agile-ts.org';
+const domain = 'https://517cde1d.documentation-9ipw.pages.dev';
 const npmOrgUrl = 'https://www.npmjs.com/package/@agile-ts';
 
 const customFields = {
